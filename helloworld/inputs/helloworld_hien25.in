@@ -1,0 +1,11 @@
+// The program input for helloworld/src/main.leo
+[do_record]
+public a: r1 = r1{
+    owner: aleo1kan9fw3edr8msgpymlt4vuenkc7wy6uuegx6nx872upthqyzkuxsc5jnqh,
+    amount:1u32,
+};
+amount: u32 = 2u32;
+
+[do_math]
+public a: u32 = 4u32;
+b: u32 = 6u32;
